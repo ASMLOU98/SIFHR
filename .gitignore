@@ -1,0 +1,42 @@
+#Secrets
+.env
+.env.*
+!.env.example
+
+#Node
+node_modules/
+**/node_modules/
+
+#Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Unity generated files
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Ll]ogs/
+**/[Oo]bj/
+**/[Uu]ser[Ss]ettings/
+
+# Unity builds
+/MonoBleedingEdge/
+/SIFHR_Data/
+/SIFHR_BurstDebugInformation_DoNotShip/
+/SIFHR.exe
+/UnityCrashHandler64.exe
+/UnityPlayer.dll
+
+# Old Unity versions
+/SIFHRFN/
+/SIFHRFNV0.2/
+/frontend/.git_backup/
+# IDE
+**/.vscode/
+*.sln
+*.csproj
+# Duplicate Unity WebGL build
+/frontend/public/game/
+# Unity exported build (duplicate)
+/MySIFHR V0.FN/SIFHR/Build/

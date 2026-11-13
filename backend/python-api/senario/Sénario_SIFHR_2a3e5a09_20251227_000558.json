@@ -1,0 +1,36 @@
+{
+  "titre": "Sénario SIFHR - Session 2a3e5a09",
+  "date_creation": "20251227_000558",
+  "session_id": "2a3e5a09",
+  "personnages": {
+    "explorateur": "EXPLORATEUR",
+    "gardien": "GARDIEN SIFHR"
+  },
+  "scenario": [
+    {
+      "parlent": "EXPLORATEUR",
+      "text": "Comment les médecins arabes ont-ils traité les maladies ophtalmiques ?",
+      "timestamp": 1766790311.54009
+    },
+    {
+      "parlent": "GARDIEN SIFHR",
+      "text": "\"Les secrets de la vision, révélés dans les tomes anciens de l'islam... L'œuvre de Alhazen, illuminant les ténèbres de la peur de la perte de la vue.\"",
+      "timestamp": 1766790312.2060437
+    },
+    {
+      "parlent": "EXPLORATEUR",
+      "text": "Parle-moi des merveilles architecturales de Samarcande",
+      "timestamp": 1766790339.8095782
+    },
+    {
+      "parlent": "GARDIEN SIFHR",
+      "text": "\"La splendeur d'or de Samarcande, où les arches lentes de l'aube s'éveillent vers un ciel sans fin... les mausolées de Tamerlan, gardiens de la lumière éternelle.\"",
+      "timestamp": 1766790340.2946224
+    }
+  ],
+  "metadata": {
+    "total_repliques": 4,
+    "langchain_available": true,
+    "format": "parlent/text"
+  }
+}

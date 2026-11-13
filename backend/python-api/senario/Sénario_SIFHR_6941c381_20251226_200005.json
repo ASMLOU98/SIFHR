@@ -1,0 +1,36 @@
+{
+  "titre": "Sénario SIFHR - Session 6941c381",
+  "date_creation": "20251226_200005",
+  "session_id": "6941c381",
+  "personnages": {
+    "explorateur": "EXPLORATEUR",
+    "gardien": "GARDIEN SIFHR"
+  },
+  "scenario": [
+    {
+      "parlent": "EXPLORATEUR",
+      "text": "Quelle était l'importance de l'observatoire de Maragha ?",
+      "timestamp": 1766775598.112401
+    },
+    {
+      "parlent": "GARDIEN SIFHR",
+      "text": "Les échos des anciens résonnent faiblement...",
+      "timestamp": 1766775599.0341685
+    },
+    {
+      "parlent": "EXPLORATEUR",
+      "text": "Qu'est-ce que l'arabesque en art islamique ?",
+      "timestamp": 1766775604.467947
+    },
+    {
+      "parlent": "GARDIEN SIFHR",
+      "text": "Les échos des anciens résonnent faiblement...",
+      "timestamp": 1766775604.979846
+    }
+  ],
+  "metadata": {
+    "total_repliques": 4,
+    "model": "llama-3.1-8b-instant",
+    "format": "parlent/text"
+  }
+}

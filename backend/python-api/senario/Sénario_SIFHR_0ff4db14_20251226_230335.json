@@ -1,0 +1,26 @@
+{
+  "titre": "Sénario SIFHR - Session 0ff4db14",
+  "date_creation": "20251226_230335",
+  "session_id": "0ff4db14",
+  "personnages": {
+    "explorateur": "EXPLORATEUR",
+    "gardien": "GARDIEN SIFHR"
+  },
+  "scenario": [
+    {
+      "parlent": "EXPLORATEUR",
+      "text": "Qu'est-ce que l'algèbre et qui l'a fondée ?",
+      "timestamp": 1766786606.66832
+    },
+    {
+      "parlent": "GARDIEN SIFHR",
+      "text": "\"La lumière de l'algèbre éclaire les ténèbres de l'inconnu. L'algèbre, enfant de l'esprit humain, a trouvé son père dans le génie d'Abu al-Wafa' Buzjani, mais son âme véritable appartient à Diophante, le sage qui a décrypté les secrets des équations.\"",
+      "timestamp": 1766786607.7707233
+    }
+  ],
+  "metadata": {
+    "total_repliques": 2,
+    "langchain_available": true,
+    "format": "parlent/text"
+  }
+}
